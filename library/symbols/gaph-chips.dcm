@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASSoC
+D Astaroth IC (PUCRS)
+$ENDCMP
+#
+$CMP CSoC
+D GAPH Capeta-SoC (CSoC)
+K capeta, csoc
+$ENDCMP
+#
+$CMP CSoC-Standalone-Board-Shield
+D Capeta Standalone-Board Shield
+K csoc-shield, capeta-shield
+$ENDCMP
+#
+$CMP SSoC
+D GAPH Satan-SoC (SSoC)
+K satan, ssoc
+$ENDCMP
+#
+$CMP SSoC-Standalone-Board-Shield
+D Satan Standalone-Board Shield
+K ssoc-shield, satan-shield
+$ENDCMP
+#
+#End Doc Library

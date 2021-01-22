@@ -1,2 +1,4 @@
 # assoc-board
-Smal and simple evaluation board for the ASSoC IC
+
+Small and simple evaluation board for the ASSoC IC
+
