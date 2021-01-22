@@ -1,0 +1,6 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT7299B
+D 8A, 18V, Synchronous Step-Down Converter	
+F https://np.infinity-electronic.hk/datasheet/9b-RT7299BHGQW.pdf
+$ENDCMP

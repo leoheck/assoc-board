@@ -1,0 +1,21 @@
+RT7299B , U    , *QFN*14* ,         ,
+        ,      ,          ,         ,
+Pin     , Unit , Type     , Name    , Side
+6       , 1    , power_in , VIN     , left
+*       , 1    ,          ,         , left
+4       , 1    , power_in , PVIN    , left
+5       , 1    , power_in , PVIN    , left
+10      , 1    , input    , EN      , left
+14      , 1    , power_in , PGOOD   , left
+1       , 1    , passive  , RT/SYNC , left
+9       , 1    , input    , SS/TR   , left
+13      , 1    , power_in , BOOT    , right
+*       , 1    ,          ,         , right
+11      , 1    , power_in , LX      , right
+12      , 1    , power_in , LX      , right
+*       , 1    ,          ,         , right
+7       , 1    , passive  , FB      , right
+8       , 1    , passive  , COMP    , right
+*       , 1    ,          ,         , right
+2       , 1    , power_in , GND     , right
+3       , 1    , power_in , GND     , right
