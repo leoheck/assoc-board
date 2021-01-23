@@ -1,6 +1,7 @@
 # ASSoC Evaluation Board
 
 Small and simple evaluation board for the ASSoC IC.
+ASSoC IC private project can be accessed [here](https://lesvos.pucrs.br/assoc/assoc). 
 
 The IC is accessible through a USB-Serial dongle connected to the computer. The default symbol rate for 25 MHz clock is 11520 Bd (baud rate).
 
