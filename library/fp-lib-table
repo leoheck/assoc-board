@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "GAPH")(type "Legacy")(uri "${KIPRJMOD}/library/modules/gaph-chips.pretty")(options "")(descr "Chips from GAPH"))
-  (lib (name "GAPH")(type "Legacy")(uri "${KIPRJMOD}/library/modules/gaph-extra.pretty")(options "")(descr "Misc/custom parts for GAPH projects"))
-)
