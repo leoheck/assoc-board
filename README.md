@@ -5,8 +5,8 @@ Small and simple evaluation board for the ASSoC IC.
 The IC is accessible through a USB-Serial dongle connected to the computer. The default symbol rate for 25 MHz clock is 11520 Bd (baud rate).
 
 - Board [schematics](board-schematic.pdf)
-- Production files [Release-0.1](https://github.com/leoheck/assoc-board/releases/tag/0.1)
 - Assembly [Bill of Materials](board-bom.csv)
+- Production files [Release-0.1](https://github.com/leoheck/assoc-board/releases/tag/0.1)
 
 > This project uses Kicad 5.1.6
 
@@ -23,5 +23,5 @@ The ASSoC IC has some issues related to the interconnection of the power rails a
 
 # Pictures
 
-![pcb top view](misc/board-top.png)
-![pcb bottom view](misc/board-bottom.png)
+![pcb top view](misc/board-top.png){:width="400px"}
+![pcb bottom view](misc/board-bottom.png){:width="400px"}
