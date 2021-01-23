@@ -23,5 +23,5 @@ The ASSoC IC has some issues related to the interconnection of the power rails a
 
 # Pictures
 
-![pcb top view](misc/board-top.png){:width="400px"}
-![pcb bottom view](misc/board-bottom.png){:width="400px"}
+<img src="misc/board-top.png" width="400">
+<img src="misc/board-bottom.png" width="400">
