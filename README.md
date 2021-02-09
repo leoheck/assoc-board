@@ -5,8 +5,8 @@ ASSoC IC private project can be accessed [here](https://lesvos.pucrs.br/assoc/as
 
 The IC is accessible through a USB-Serial dongle connected to the computer. The default symbol rate for 25 MHz clock is 11520 Bd (baud rate).
 
-- Board [schematics](board-schematic.pdf)
-- Board [Layout and Interactive BOM](https://htmlpreview.github.io/?https://github.com/leoheck/assoc-board/blob/main/board-bom.html)
+- [Board Schematics](board-schematic.pdf)
+- [Layout and Interactive BOM](https://htmlpreview.github.io/?https://github.com/leoheck/assoc-board/blob/main/board-bom.html)
 - Assembly [Bill of Materials](board-bom.csv)
 - Production files [Release-0.1](https://github.com/leoheck/assoc-board/releases/tag/0.1)
 
