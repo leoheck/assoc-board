@@ -28,3 +28,6 @@ _autosave-*
 # Folders to ignore
 gerber
 prod
+
+# Ignore generated backups
+board-backups
