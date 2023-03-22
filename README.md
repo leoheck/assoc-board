@@ -10,7 +10,7 @@ The IC is accessible through a USB-Serial dongle connected to the computer. The 
 - Assembly [Bill of Materials](board-bom.csv)
 - Production files [Release-0.1](https://github.com/leoheck/assoc-board/releases/tag/0.1)
 
-> This project uses Kicad 5.1.6
+> This project uses Kicad 7
 
 The library in this project is a git submodule.
 Update/clone the library with the following command:
