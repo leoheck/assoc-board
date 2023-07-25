@@ -31,3 +31,4 @@ prod
 
 # Ignore generated backups
 board-backups
+.kiri
